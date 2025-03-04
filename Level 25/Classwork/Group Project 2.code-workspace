@@ -1,0 +1,121 @@
+{
+	"folders": [
+		{
+			"name": "Group Project 2",
+			"path": "../../Group Project 2"
+		},
+		{
+			"name": "Test",
+			"path": "../../Test"
+		},
+		{
+			"name": "Group Work",
+			"path": "../../Group Work"
+		},
+		{
+			"name": "HackatonV6",
+			"path": "../../HackatonV6"
+		},
+		{
+			"name": "Level 00",
+			"path": "../../Level 00"
+		},
+		{
+			"name": "Level 01",
+			"path": "../../Level 01"
+		},
+		{
+			"name": "Level 02",
+			"path": "../../Level 02"
+		},
+		{
+			"name": "Level 03",
+			"path": "../../Level 03"
+		},
+		{
+			"name": "Level 04",
+			"path": "../../Level 04"
+		},
+		{
+			"name": "Level 05",
+			"path": "../../Level 05"
+		},
+		{
+			"name": "Level 06",
+			"path": "../../Level 06"
+		},
+		{
+			"name": "Level 07",
+			"path": "../../Level 07"
+		},
+		{
+			"name": "Level 08",
+			"path": "../../Level 08"
+		},
+		{
+			"name": "Level 09",
+			"path": "../../Level 09"
+		},
+		{
+			"name": "Level 10",
+			"path": "../../Level 10"
+		},
+		{
+			"name": "Level 11",
+			"path": "../../Level 11"
+		},
+		{
+			"name": "Level 12",
+			"path": "../../Level 12"
+		},
+		{
+			"name": "Level 13",
+			"path": "../../Level 13"
+		},
+		{
+			"name": "Level 14",
+			"path": "../../Level 14"
+		},
+		{
+			"name": "Level 15",
+			"path": "../../Level 15"
+		},
+		{
+			"name": "Level 16",
+			"path": "../../Level 16"
+		},
+		{
+			"name": "Level 17",
+			"path": "../../Level 17"
+		},
+		{
+			"name": "Level 18",
+			"path": "../../Level 18"
+		},
+		{
+			"name": "Level 19",
+			"path": "../../Level 19"
+		},
+		{
+			"name": "Level 20",
+			"path": "../../Level 20"
+		},
+		{
+			"name": "Level 21",
+			"path": "../../Level 21"
+		},
+		{
+			"name": "Level 22",
+			"path": "../../Level 22"
+		},
+		{
+			"path": "../../Level 23"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Test"
+	}
+}

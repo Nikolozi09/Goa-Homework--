@@ -1,0 +1,43 @@
+print(5 < 10) 
+print(20 > 10)
+print(25 > 10)
+print(60 < 70)
+print(90 < 100)
+print(55 > 45)
+print(80 < 90)
+print(10 < 100)
+print(90 > 65)
+print(120 > 100)
+
+print(50 == 50)
+print(25 == 25)
+print(100 == 100)
+print(80 == 80)
+print(70 == 70)
+print(10 == 10)
+print(40 == 40)
+print(105 == 105)
+print(150 == 150)
+print(200 == 200)
+
+Num_1 = 10
+Num_2 = 20
+Num_3 = 30
+Num_4 = 40
+Num_5 = 50
+Num_6 = 60
+Num_7 = 70
+Num_8 = 80
+Num_9 = 90
+Num_10 = 100
+
+print(Num_1 < 20)
+print(Num_2 > 10)
+print(50 > Num_3)
+print(40 == Num_4)
+print(60 > Num_5)
+print(90 > Num_6)
+print(70 == Num_7)
+print(100 > Num_8)
+print(80 < Num_9)
+print(30 < Num_10)

@@ -1,0 +1,124 @@
+<!--1) გამოიყენეთ div ელემენტი და შეუცვალეთ ბექგრაუნდ ფერი
+2) შექმენით div ელემენტი და შიგნით ჩაამატეთ პარაგრაფი. 
+3) შექმენით div ელემენტი და შიგნით გამოიყენეთ ელემენტები: p, h1,h2,h3,button (გასტილეთ დივი: შეუცვალეთ ტექსტის ფერი და ზომა)
+4) დაამატეთ 5 პარაგრაფი div ელემენტში. ერთი პარაგრაფი უნდა იყოს წითელი მეორე მწვანე, დანარჩენი ყვითელი.-->
+
+
+<!--1-->
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML დავალება</title>
+    <style>
+        .background-div {
+            background-color: #add8e6; /* ცისფერი ფონი */
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- div ელემენტი, ბექგრაუნდ ფერის შეცვლა -->
+    <div class="background-div">
+        ეს არის div ელემენტი ცისფერ ფონზე
+    </div>
+
+</body>
+</html>
+
+
+<!--2-->
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML დავალება</title>
+</head>
+<body>
+
+    <!-- div ელემენტი და პარაგრაფი -->
+    <div>
+        <p>ეს არის პარაგრაფი div ელემენტში.</p>
+    </div>
+
+</body>
+</html>
+
+
+<!--3-->
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML დავალება</title>
+    <style>
+        .styled-div {
+            color: #4CAF50; /* მწვანე ტექსტის ფერი */
+            font-size: 18px; /* ტექსტის ზომა */
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- div ელემენტი სხვადასხვა ელემენტებით და სტილებით -->
+    <div class="styled-div">
+        <h1>ეს არის H1</h1>
+        <h2>ეს არის H2</h2>
+        <h3>ეს არის H3</h3>
+        <p>ეს არის პარაგრაფი (P)</p>
+        <button>დაჭერე მე!</button>
+    </div>
+
+</body>
+</html>
+
+
+<!--4-->
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML დავალება</title>
+    <style>
+        .colorful-div p:nth-child(1) {
+            color: red; /* წითელი ფერი */
+        }
+        .colorful-div p:nth-child(2) {
+            color: green; /* მწვანე ფერი */
+        }
+        .colorful-div p:nth-child(3) {
+            color: yellow; /* ყვითელი ფერი */
+        }
+        .colorful-div p:nth-child(4) {
+            color: orange; /* ნარინჯისფერი */
+        }
+        .colorful-div p:nth-child(5) {
+            color: blue; /* ლურჯი ფერი */
+        }
+    </style>
+</head>
+<body>
+
+    <!-- div ელემენტი 5 პარაგრაფით სხვადასხვა ფერით -->
+    <div class="colorful-div">
+        <p>ეს არის წითელი პარაგრაფი.</p>
+        <p>ეს არის მწვანე პარაგრაფი.</p>
+        <p>ეს არის ყვითელი პარაგრაფი.</p>
+        <p>ეს არის ნარინჯისფერი პარაგრაფი.</p>
+        <p>ეს არის ლურჯი პარაგრაფი.</p>
+    </div>
+
+</body>
+</html>
+

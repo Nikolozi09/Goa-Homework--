@@ -1,0 +1,11 @@
+user_num = int(input("Enter a number: 10"))
+user_num1 = int(input("Enter a second number: 5a"))
+print(user_num - user_num1)
+print(user_num * user_num1)
+print(user_num + user_num1)
+print(user_num / user_num1)
+
+print(user_num1 - user_num)
+print(user_num1 * user_num)
+print(user_num1 + user_num)
+print(user_num1 / user_num)

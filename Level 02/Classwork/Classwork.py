@@ -1,0 +1,1 @@
+print("Nikoloz", "Chelidze", 12, "Irina", "Acharuli Xhachapuri")
